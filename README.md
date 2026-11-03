@@ -55,3 +55,7 @@ portfolio/
 ├── resume-preview.webp        # image of the resume page shown in the CV section
 └── README.md
 ```
+
+Contact form (Web3Forms)
+
+The contact form uses Web3Forms, a free service that emails form submissions to me. The site is static, so there is no server of my own.
